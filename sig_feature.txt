@@ -1,68 +1,68 @@
-[(0.024646556017764543, 'R_avg_opp_SIG_STR_pct'),
- (0.023536999756078206, 'R_age'),
- (0.022435457260162082, 'R_avg_opp_HEAD_landed'),
- (0.021017192165078045, 'R_avg_opp_DISTANCE_landed'),
- (0.01935603514391338, 'R_avg_opp_SIG_STR_landed'),
- (0.019321974937928046, 'R_avg_opp_CTRL_time(seconds)'),
- (0.019300646667645492, 'R_avg_SIG_STR_pct'),
- (0.01925934952842717, 'R_avg_opp_BODY_att'),
- (0.019157109363268608, 'R_avg_opp_BODY_landed'),
- (0.01907762611966717, 'R_avg_opp_TOTAL_STR_landed'),
- (0.019060121214063162, 'R_avg_GROUND_att'),
- (0.01851798264063817, 'R_avg_TD_pct'),
- (0.01840188248340702, 'R_avg_CTRL_time(seconds)'),
- (0.01831345532483518, 'R_avg_TOTAL_STR_landed'),
- (0.01822008956437807, 'R_total_time_fought(seconds)'),
- (0.01817325514556271, 'R_avg_BODY_att'),
- (0.018121385202427884, 'R_avg_opp_CLINCH_landed'),
- (0.018108559676100987, 'B_age'),
- (0.018101401430795118, 'R_avg_GROUND_landed'),
- (0.01801853195744801, 'R_avg_HEAD_landed'),
- (0.017951258948529458, 'R_avg_CLINCH_att'),
- (0.017885374519301417, 'R_avg_BODY_landed'),
- (0.017810147039648613, 'R_avg_opp_CLINCH_att'),
- (0.017625238487824886, 'R_avg_CLINCH_landed'),
- (0.017600647493018894, 'R_avg_opp_TOTAL_STR_att'),
- (0.01721682265567363, 'R_avg_TD_att'),
- (0.017138354901027917, 'R_avg_DISTANCE_landed'),
- (0.017098625303163487, 'R_avg_opp_DISTANCE_att'),
- (0.016750458384302135, 'R_avg_HEAD_att'),
- (0.01675020142606109, 'R_avg_opp_LEG_att'),
- (0.01668055922227062, 'R_avg_opp_TD_att'),
- (0.016673063173851914, 'R_avg_opp_HEAD_att'),
- (0.016643627236148036, 'R_avg_LEG_landed'),
- (0.016560147170984876, 'R_avg_opp_GROUND_att'),
- (0.016553046364546405, 'R_avg_LEG_att'),
- (0.016552141914154266, 'R_avg_opp_SIG_STR_att'),
- (0.016327625256229588, 'R_avg_opp_LEG_landed'),
- (0.0161248478002806, 'R_avg_DISTANCE_att'),
- (0.015939188801115514, 'R_total_rounds_fought'),
- (0.015890958584033978, 'R_avg_TOTAL_STR_att'),
- (0.01584810356357277, 'R_avg_opp_GROUND_landed'),
- (0.0157998045808724, 'R_avg_TD_landed'),
- (0.015464892248426024, 'R_avg_SUB_ATT'),
- (0.015418046283590477, 'R_avg_opp_TD_pct'),
- (0.015147851570984397, 'R_avg_SIG_STR_landed'),
- (0.015000270680559884, 'R_avg_SIG_STR_att'),
- (0.01484990273071197, 'R_avg_opp_TD_landed'),
- (0.013969052199437905, 'R_losses'),
- (0.013817454244947706, 'R_avg_opp_SUB_ATT'),
- (0.012455422857732597, 'R_avg_KD'),
- (0.012392854758544635, 'R_Reach_cms'),
- (0.012183489390446512, 'R_Height_cms'),
- (0.011326323608074286, 'R_avg_opp_KD'),
- (0.01079962923287192, 'R_Weight_lbs'),
- (0.009884876866413515, 'R_avg_REV'),
- (0.009454918534813743, 'R_wins'),
- (0.0089185358589182, 'R_avg_opp_REV'),
- (0.007761693675153335, 'R_longest_win_streak'),
- (0.006965131661424065, 'R_current_win_streak'),
- (0.006483212754800652, 'R_win_by_KO/TKO'),
- (0.006370449789849747, 'R_win_by_Decision_Unanimous'),
- (0.0056534613058764165, 'R_win_by_Submission'),
- (0.005288203410062494, 'R_win_by_Decision_Split'),
- (0.004451729625957095, 'R_total_title_bouts'),
- (0.004301266539777428, 'R_current_lose_streak'),
- (0.0013021072374615067, 'R_win_by_TKO_Doctor_Stoppage'),
- (0.0007733685069619113, 'R_win_by_Decision_Majority'),
- (0.0, 'R_draw')]
+2.465%	 'R_avg_opp_SIG_STR_pct')
+2.354%	 'R_age')
+2.244%	 'R_avg_opp_HEAD_landed')
+2.102%	 'R_avg_opp_DISTANCE_landed')
+1.936%	 'R_avg_opp_SIG_STR_landed')
+1.932%	 'R_avg_opp_CTRL_time(seconds)')
+1.930%	 'R_avg_SIG_STR_pct')
+1.926%	 'R_avg_opp_BODY_att')
+1.916%	 'R_avg_opp_BODY_landed')
+1.908%	 'R_avg_opp_TOTAL_STR_landed')
+1.906%	 'R_avg_GROUND_att')
+1.852%	 'R_avg_TD_pct')
+1.840%	 'R_avg_CTRL_time(seconds)')
+1.831%	 'R_avg_TOTAL_STR_landed')
+1.822%	 'R_total_time_fought(seconds)')
+1.817%	 'R_avg_BODY_att')
+1.812%	 'R_avg_opp_CLINCH_landed')
+1.811%	 'B_age')
+1.810%	 'R_avg_GROUND_landed')
+1.802%	 'R_avg_HEAD_landed')
+1.795%	 'R_avg_CLINCH_att')
+1.789%	 'R_avg_BODY_landed')
+1.781%	 'R_avg_opp_CLINCH_att')
+1.763%	 'R_avg_CLINCH_landed')
+1.760%	 'R_avg_opp_TOTAL_STR_att')
+1.722%	 'R_avg_TD_att')
+1.714%	 'R_avg_DISTANCE_landed')
+1.710%	 'R_avg_opp_DISTANCE_att')
+1.675%	 'R_avg_HEAD_att')
+1.675%	 'R_avg_opp_LEG_att')
+1.668%	 'R_avg_opp_TD_att')
+1.667%	 'R_avg_opp_HEAD_att')
+1.664%	 'R_avg_LEG_landed')
+1.656%	 'R_avg_opp_GROUND_att')
+1.655%	 'R_avg_LEG_att')
+1.655%	 'R_avg_opp_SIG_STR_att')
+1.633%	 'R_avg_opp_LEG_landed')
+1.612%	 'R_avg_DISTANCE_att')
+1.594%	 'R_total_rounds_fought')
+1.589%	 'R_avg_TOTAL_STR_att')
+1.585%	 'R_avg_opp_GROUND_landed')
+1.580%	 'R_avg_TD_landed')
+1.546%	 'R_avg_SUB_ATT')
+1.542%	 'R_avg_opp_TD_pct')
+1.515%	 'R_avg_SIG_STR_landed')
+1.500%	 'R_avg_SIG_STR_att')
+1.485%	 'R_avg_opp_TD_landed')
+1.397%	 'R_losses')
+1.382%	 'R_avg_opp_SUB_ATT')
+1.246%	 'R_avg_KD')
+1.239%	 'R_Reach_cms')
+1.218%	 'R_Height_cms')
+1.133%	 'R_avg_opp_KD')
+1.080%	 'R_Weight_lbs')
+0.988%	 'R_avg_REV')
+0.945%	 'R_wins')
+0.892%	 'R_avg_opp_REV')
+0.776%	 'R_longest_win_streak')
+0.697%	 'R_current_win_streak')
+0.648%	 'R_win_by_KO/TKO')
+0.637%	 'R_win_by_Decision_Unanimous')
+0.565%	 'R_win_by_Submission')
+0.529%	 'R_win_by_Decision_Split')
+0.445%	 'R_total_title_bouts')
+0.430%	 'R_current_lose_streak')
+0.130%	 'R_win_by_TKO_Doctor_Stoppage')
+0.077%	 'R_win_by_Decision_Majority')
+0.000%	 'R_draw')]
