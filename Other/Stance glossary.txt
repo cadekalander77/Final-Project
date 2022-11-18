@@ -1,5 +1,0 @@
-Orthodox = 1
-Southpaw = 2
-Switch = 3
-Open Stance = 4
-Sideways = 5
