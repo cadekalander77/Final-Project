@@ -9,7 +9,7 @@ I combined all the fighters into one data set with their stats aligned correctly
 
 11/23 Update: 
 
-SQL is being used to take in the data and create a AWS from the the data.
+SQL is being used to take in the data and create a AWS from the the data. Data being analyzed by members to try to break data down to be more manageable.
 
 ## Decision Tree
 
