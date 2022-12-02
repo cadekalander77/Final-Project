@@ -2,6 +2,7 @@
 ![image](Other/Images/ufc_logo.jpg)
 # Project Background
 As a group we decided to center our project around predicting the outcome of a given UFC fight, based on the statistics we deem most correlated to the final restult. We selected this topic for the reasoning that we are all fans of mixed martial arts, while at the same time being interested in the determining factors of a fight. We came to the conclusion that we would be able to transform and visualize data on this topic to answer interesting and significant questions.
+https://docs.google.com/presentation/d/1-Cx8XTGV_2w4LcIt0c1MozEyiDVF2S2qxdrdHueo9KY/edit#slide=id.g196ff0e21df_0_920
 # Communication Protocols
 As a collective we decided that the Square Role (Git Hub) was going to be headed by Cade, the Triangle Role (Machine Learning) was going to be led by Joey, the Circle Role (Database) was going to be managed by Charles, and The X Role (Technology Tools) was going to be guided by Kohle. With these distinct roles in place, our team has an outline of who is in charge of what. However, our group intends on working together amoungst all necesary duties by utilizing the team's slack group chat for live communication and delgation.
 # Data Sources
