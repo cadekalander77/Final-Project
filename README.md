@@ -31,11 +31,13 @@ As a group we decided to center our project around predicting the outcome of a g
 # Data Process
 
 ## Data Sources
- We found two expansive data sets on kaggle.com that provided sigificant statistics of every UFC fight from 1993 to 2021. These statistics include fight outcomes, in-fight damage, fighter attributes, and fighter locations. Our goal with this project is to utilize these data sets to determine if a UFC fight can be predicted, to a degree, based on certain statistics.
+ We found two expansive data sets on kaggle.com that provided sigificant statistics of every UFC fight from 1993 to 2021. These statistics include fight outcomes, in-fight damage, fighter attributes, and fighter locations. Our goal with this project is to utilize these data sets to determine if a UFC fight can be predicted, to a degree, based on certain statistics. Also, we hope to answer our focus questions with this raw data.
 
 ## Data Cleaning
+For the cleaning portion of our data, we took our two raw data sources and utilized machine learning to find the highest correlated stats to victory. With these results we were able to condense our data set into our own database which yielded the most accurate model. Now our model is optimized, unnecessary data is elimitated, and we have a clear course to answering our focus questions
 
 ## Data Exploration
+Our direction in the data exploration phase was to utilize machine learning to solve our main question of can fights be predicted, is damage cumulative, and how does height and reach impact a fight. On the otherhand we used tablaeu to slove peak age, best fight camps, and where are the origins of the best fighters. This road map gave us the path we needed to test our questions with our refined data.
 
 # Data Analysis
 
