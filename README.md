@@ -61,6 +61,7 @@ SQL is being used to take in the data and create a AWS from the the data. Data b
 ![image](https://user-images.githubusercontent.com/108442512/202005165-39ce4916-6ffa-467c-9b65-1d2f7717f8fb.png)
 
 ## Dashboard Results
+https://public.tableau.com/shared/SNPMHCX64?:display_count=n&:origin=viz_share_link
 
 # Google Slides & Resources
 https://docs.google.com/presentation/d/1-Cx8XTGV_2w4LcIt0c1MozEyiDVF2S2qxdrdHueo9KY/edit#slide=id.p <br />
